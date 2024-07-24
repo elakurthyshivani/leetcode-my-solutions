@@ -1,7 +1,5 @@
 # 726. Number of Atoms
 
-### About
-
 Difficulty: **Hard**
 
 Link to Problem Statement: [https://leetcode.com/problems/number-of-atoms/description/](https://leetcode.com/problems/number-of-atoms/description/)
