@@ -1,7 +1,5 @@
 # 815. Bus Routes
 
-### About
-
 Difficulty: **Hard**
 
 Link to Problem Statement: [https://leetcode.com/problems/bus-routes/description/](https://leetcode.com/problems/bus-routes/description/)
