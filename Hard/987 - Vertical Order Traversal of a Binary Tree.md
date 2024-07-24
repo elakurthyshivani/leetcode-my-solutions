@@ -1,7 +1,5 @@
 # 987. Vertical Order Traversal of a Binary Tree
 
-### About
-
 Difficulty: **Hard**
 
 Link to Problem Statement: [https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)
