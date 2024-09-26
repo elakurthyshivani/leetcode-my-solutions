@@ -4,7 +4,7 @@ Difficulty: **Medium**
 
 Link to Problem Statement: [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
-### My Solution
+## My Solution
 
 ### Code
 
