@@ -73,6 +73,8 @@ class Solution:
 
 Runtime: *1833 ms*
 
+Link to my Solution: [https://leetcode.com/problems/shortest-distance-from-all-buildings/solutions/5879461/python-memory-beats-89-84-of-users-runtime-beats-76-93-of-users/](https://leetcode.com/problems/shortest-distance-from-all-buildings/solutions/5879461/python-memory-beats-89-84-of-users-runtime-beats-76-93-of-users/)
+
 ### Time and Space Complexities
 
 - Time complexity: $O(n^2 * m^2)$, where $n$ is the number of rows and $m$ is the number of columns.
